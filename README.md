@@ -1,6 +1,15 @@
-# 2025_ROBOTMASTER_CODE_SPECIFICATION
+<center class ='img'>
+<img src="./image/logo.jpg"  width = 10%>
+</center>
+
+
+# 华南师范大学VANGUARD战队 2025赛季电控组代码规范
 
 <!-- 华南师范大学**VANGUARD**战队**电控组**C语言代码规范相关 -->
+
+
+
+
 
 **注：本编码规范要求华南师范大学电控组所有成员严格遵守，若审查到不符合规范的代码会被要求进行修改**
 
